@@ -18,7 +18,7 @@ Research
   * Level-set method
   * Phase-field method
 
-* Efficient parallel solvers for interfacial flows in 3D built on top of the open source finite element library [dea.ii](https://www.dealii.org/).
+* Efficient parallel solvers for interfacial flows in 3D built on top of the open source finite element library [deal.ii](https://www.dealii.org/).
 
 
 Publications
