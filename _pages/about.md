@@ -14,17 +14,17 @@ I am a postdoctoral fellow in the school of mathematical and statistical science
 
 Research 
 ======
-*Finite-element simulations of interfacial flows with moving contact lines. 
-  *Level-set method
-  *Phase-field method
+* Finite-element simulations of interfacial flows with moving contact lines. 
+  * Level-set method
+  * Phase-field method
 
-*Efficient parallel solvers for interfacial flows in 3D built on top of the open source finite element library [dea.ii](https://www.dealii.org/)
+* Efficient parallel solvers for interfacial flows in 3D built on top of the open source finite element library [dea.ii](https://www.dealii.org/)
 
 
 Publications
 ======
-*Jiaqi Zhang and Pengtao Yue. "A level-set method for moving contact lines with contactangle hysteresis". <i>Journal of Computational Physics</i>, 418:109636, 2020
-*Jiaqi Zhang and Pengtao Yue. "A high-order and interface-preserving discontinuous Galerkinmethod for level-set reinitialization". <i>Journal of Computational Physics</i>, 378:634–664, 2019
+* Jiaqi Zhang and Pengtao Yue. "A level-set method for moving contact lines with contactangle hysteresis". <i>Journal of Computational Physics</i>, 418:109636, 2020
+* Jiaqi Zhang and Pengtao Yue. "A high-order and interface-preserving discontinuous Galerkinmethod for level-set reinitialization". <i>Journal of Computational Physics</i>, 378:634–664, 2019
 
 
 <!-- 
