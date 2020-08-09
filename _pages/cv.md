@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mathematics, Shantou University, 2012
-* M.S. in Mathematics, University of Macau, 2015 (Advisor: [Haiwei Sun](https://www.fst.um.edu.mo/people/hsun/))
 * Ph.D in Mathematics, Virginia Tech, 2020 (Advisor: [Pengtao Yue](https://www.math.vt.edu/people/faculty/yue-pengtao.html))
+* M.S. in Mathematics, University of Macau, 2015 (Advisor: [Haiwei Sun](https://www.fst.um.edu.mo/people/hsun/))
+* B.S. in Mathematics, Shantou University, 2012
+
+
 
 Work experience
 ======
