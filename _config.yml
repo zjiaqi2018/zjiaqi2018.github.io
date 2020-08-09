@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jiaqi Zhang"
 title_separator          : "-"
 name                     : &name "Jiaqi Zhang"
-description              : &description "Post doctoral fellow at Clemson University"
+description              : &description "Postdoctoral fellow at Clemson University"
 url                      : https://zjiaqi2018.github.io/academicpages.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zjiaqi2018/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jiaqi Zhang"
   avatar           : "profile.png"
-  bio              : "Post doctoral fellow at Clemson University"
+  bio              : "Postdoctoral fellow at Clemson University"
   location         : "Clemson, SC"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
