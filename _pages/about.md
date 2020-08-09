@@ -7,13 +7,25 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a postdoctoral fellow in the school of mathematical and statistical sciences at Clemson University, working with [Timo Heister](http://www.math.clemson.edu/~heister/#home). I completed my PhD at Virginia Tech under the supervision of [Pengtao Yue](https://www.math.vt.edu/people/faculty/yue-pengtao.html). 
+I am a postdoctoral fellow in the school of mathematical and statistical sciences at Clemson University, and my advisor is [Timo Heister](http://www.math.clemson.edu/~heister/#home). I completed my PhD at Virginia Tech under the supervision of [Pengtao Yue](https://www.math.vt.edu/people/faculty/yue-pengtao.html). 
 
 
 
-<!-- 
-Research
------- -->
+
+Research 
+======
+*Finite-element simulations of interfacial flows with moving contact lines. 
+  *Level-set method
+  *Phase-field method
+
+*Efficient parallel solvers for interfacial flows in 3D built on top of the open source finite element library [dea.ii](https://www.dealii.org/)
+
+
+Publications
+======
+*Jiaqi Zhang and Pengtao Yue. "A level-set method for moving contact lines with contactangle hysteresis". <i>Journal of Computational Physics</i>, 418:109636, 2020
+*Jiaqi Zhang and Pengtao Yue. "A high-order and interface-preserving discontinuous Galerkinmethod for level-set reinitialization". <i>Journal of Computational Physics</i>, 378:634–664, 2019
+
 
 <!-- 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
