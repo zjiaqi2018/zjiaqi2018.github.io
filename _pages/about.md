@@ -23,6 +23,9 @@ Research
 
 Publications
 ======
+* Lei Li, Jiaqi Zhang, Zelai Xu, Yuan-Nan Young, James J. Feng and Pengtao Yue. "An arbitrary Lagrangian-Eulerian method for simulating interfacial dynamics between a
+hydrogel and a fluid" <i>submitted</i>
+*  Daniel Arndt, Wolfgang Bangerth, Bruno Blais, Marc Fehling, Rene Gassmöller, Timo Heister, Luca Heltai, Uwe Köcher, Martin Kronbichler, Matthias Maier, Peter Munch, Jean-Paul Pelteret, Sebastian Proell, Konrad Simon, Bruno Turcksin, David Wells and Jiaqi Zhang . "The deal.II library, Version 9.3" <i>Journal of Numerical Mathematics</i>, vol. 29, no. 3, 2021, pp. 171-186. ([Preprint](https://www.dealii.org/deal93-preprint.pdf), [DOI](https://doi.org/10.1515/jnma-2021-0081)) 
 * Jiaqi Zhang and Pengtao Yue. "A level-set method for moving contact lines with contact angle hysteresis". <i>Journal of Computational Physics</i>, 418:109636, 2020. ([Preprint](https://github.com/zjiaqi2018/academicpages.github.io/raw/master/files/contactLine_20.pdf), [DOI](https://doi.org/10.1016/j.jcp.2020.109636))
 * Jiaqi Zhang and Pengtao Yue. "A high-order and interface-preserving discontinuous Galerkinmethod for level-set reinitialization". <i>Journal of Computational Physics</i>, 378:634–664, 2019. ([Preprint](https://github.com/zjiaqi2018/academicpages.github.io/raw/master/files/ls_reinit_19.pdf), [DOI](https://doi.org/10.1016/j.jcp.2018.11.029))
 
