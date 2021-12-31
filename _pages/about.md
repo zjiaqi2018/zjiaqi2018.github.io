@@ -18,13 +18,23 @@ Research
   * Level-set method
   * Phase-field method
 
-* Efficient parallel solvers for interfacial flows in 3D built on top of the open source finite element library [deal.ii](https://www.dealii.org/).
+* [deal.ii](https://www.dealii.org/) and [ASPECT](https://github.com/geodynamics/aspect)-Advanced Solver for Problems in Earth's ConvecTion
+  * Matrix-free methods
+  * Geometric multigrid
+  * High performance computing
+
+* Simulating interfacial dynamics between a hydrogeland a fluid
+  * Arbitrary Lagrangian-Eulerian method
+
+* Simulation  of  three-phase  system  with  solidifi-cation and moving contact lines
+  *  Cahn-Hilliard model
+  * Allen-Cahn model
 
 
 Publications
 ======
 * Lei Li, Jiaqi Zhang, Zelai Xu, Yuan-Nan Young, James J. Feng and Pengtao Yue. "An arbitrary Lagrangian-Eulerian method for simulating interfacial dynamics between a
-hydrogel and a fluid" <i>submitted</i>
+hydrogel and a fluid" <i>Journal of Computational Physics</i>, page 110851, 2021. ([Preprint](https://github.com/zjiaqi2018/zjiaqi2018.github.io/blob/master/files/hydrogel_ver14.pdf))  
 *  Daniel Arndt, Wolfgang Bangerth, Bruno Blais, Marc Fehling, Rene Gassmöller, Timo Heister, Luca Heltai, Uwe Köcher, Martin Kronbichler, Matthias Maier, Peter Munch, Jean-Paul Pelteret, Sebastian Proell, Konrad Simon, Bruno Turcksin, David Wells and Jiaqi Zhang . "The deal.II library, Version 9.3" <i>Journal of Numerical Mathematics</i>, vol. 29, no. 3, 2021, pp. 171-186. ([Preprint](https://www.dealii.org/deal93-preprint.pdf), [DOI](https://doi.org/10.1515/jnma-2021-0081)) 
 * Jiaqi Zhang and Pengtao Yue. "A level-set method for moving contact lines with contact angle hysteresis". <i>Journal of Computational Physics</i>, 418:109636, 2020. ([Preprint](https://github.com/zjiaqi2018/academicpages.github.io/raw/master/files/contactLine_20.pdf), [DOI](https://doi.org/10.1016/j.jcp.2020.109636))
 * Jiaqi Zhang and Pengtao Yue. "A high-order and interface-preserving discontinuous Galerkinmethod for level-set reinitialization". <i>Journal of Computational Physics</i>, 378:634–664, 2019. ([Preprint](https://github.com/zjiaqi2018/academicpages.github.io/raw/master/files/ls_reinit_19.pdf), [DOI](https://doi.org/10.1016/j.jcp.2018.11.029))
@@ -32,6 +42,12 @@ hydrogel and a fluid" <i>submitted</i>
 Dissertation
 ======
 Jiaqi Zhang. "Finite-element simulations of interfacial flows with moving contact lines." PhD diss., Virginia Tech, 2020. ([URL](https://vtechworks.lib.vt.edu/handle/10919/99058))
+
+Tutorial
+======
+The deal.II tutorial step-74: Symmetric interior penalty Galerkin method for Poisson's equation
+([URL](https://www.dealii.org/current/doxygen/deal.II/step_74.html), [DOI](https://zenodo.org/record/5812174))
+
 
 <!-- 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
