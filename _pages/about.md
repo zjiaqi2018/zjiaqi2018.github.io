@@ -23,10 +23,10 @@ Research
   * Geometric multigrid
   * High performance computing
 
-* Simulating interfacial dynamics between a hydrogeland a fluid
+* Simulating interfacial dynamics between a hydrogeland and a fluid
   * Arbitrary Lagrangian-Eulerian method
 
-* Simulation  of  three-phase  system  with  solidifi-cation and moving contact lines
+* Simulation  of  three-phase  system  with  solidification and moving contact lines
   *  Cahn-Hilliard model
   * Allen-Cahn model
 
