@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a postdoctoral fellow in the school of mathematical and statistical sciences at Clemson University, and my advisor is [Professor Timo Heister](http://www.math.clemson.edu/~heister/#home). I completed my PhD in mathematics at Virginia Tech under the supervision of [Professor Pengtao Yue](https://www.math.vt.edu/people/faculty/yue-pengtao.html). 
-
+I currently hold the position of Assistant Professor at Beijing Normal University at Zhuhai and at the Beijing Normal University-Hong Kong Baptist University United International College (UIC).
+Prior to my current position, I was a postdoctoral fellow at Clemson University, where I had the privilege of collaborating closely with [Professor Timo Heister](http://www.math.clemson.edu/~heister/#home) in the development of open-source finite element libraries. I received my PhD in mathematics from Virginia Tech in 2020 under the guidance of [Professor Pengtao Yue](https://www.math.vt.edu/people/faculty/yue-pengtao.html). My research focuses on designing numerical algorithms to solve mathematical models derived from complex physical processes, developing efficient parallel solvers, and analyzing numerical results to explore underlying physics. The physical problems I am working on include dynamic wetting on (soft) solids, interfacial flows of a poroelastic hydrogel, brain concussion based on the hydrogel model, as well as three-phase (gas, liquid, solid) solidification with moving contact lines.
 
 
 
@@ -18,21 +18,31 @@ Research
   * Level-set method
   * Phase-field method
 
+* Simulating interfacial dynamics between a hydrogel and a fluid
+  * Arbitrary Lagrangian-Eulerian method
+  * Modeling of Rotation-induced Traumatic Brain Injury (TBI)
+
+* Simulation of three-phase system with solidification and moving contact lines
+  * Cahn-Hilliard model
+  * Allen-Cahn model
+
+
 * [deal.ii](https://www.dealii.org/) and [ASPECT](https://github.com/geodynamics/aspect)-Advanced Solver for Problems in Earth's ConvecTion
   * Matrix-free methods
   * Geometric multigrid
   * High performance computing
 
-* Simulating interfacial dynamics between a hydrogeland and a fluid
-  * Arbitrary Lagrangian-Eulerian method
 
-* Simulation  of  three-phase  system  with  solidification and moving contact lines
-  *  Cahn-Hilliard model
-  * Allen-Cahn model
+Current Research Funding
+======
+* 01/2025-12/2027: Modeling and numerical studies of wetting on soft solids. National Natural Science Foundation of China Youth Program, Principal Investigator, 300,000 RMB, Project Number: 12401511. 
+
+* 11/2023-10/2026: Numerical simulations of dynamic wetting with fluid-structure interaction, and the development of a parallel solver. Guangdong Basic and Applied Basic Research Foundation, Principal Investigator, 10,000 RMB, Project Number: 2023A1515110861. 
 
 
 Publications
 ======
+
 * Zelai Xu, Jiaqi Zhang, Yuan-Nan Young, Pengtao Yue, and James J. Feng. "Comparison
   of four boundary conditions for the fluid-hydrogel interface". <i>Phys. Rev. Fluids</i>, 7:093301, Sep 2022. ([DOI](https://doi.org/10.1103/physrevfluids.7.093301))
 * Lei Li, Jiaqi Zhang, Zelai Xu, Yuan-Nan Young, James J. Feng and Pengtao Yue. "An arbitrary Lagrangian-Eulerian method for simulating interfacial dynamics between a
@@ -41,9 +51,9 @@ hydrogel and a fluid". <i>Journal of Computational Physics</i>, page 110851, 202
 * Jiaqi Zhang and Pengtao Yue. "A level-set method for moving contact lines with contact angle hysteresis". <i>Journal of Computational Physics</i>, 418:109636, 2020. ([Preprint](https://github.com/zjiaqi2018/academicpages.github.io/raw/master/files/contactLine_20.pdf), [DOI](https://doi.org/10.1016/j.jcp.2020.109636))
 * Jiaqi Zhang and Pengtao Yue. "A high-order and interface-preserving discontinuous Galerkin method for level-set reinitialization". <i>Journal of Computational Physics</i>, 378:634–664, 2019. ([Preprint](https://github.com/zjiaqi2018/academicpages.github.io/raw/master/files/ls_reinit_19.pdf), [DOI](https://doi.org/10.1016/j.jcp.2018.11.029))
 
-Dissertation
+In revision
 ======
-Jiaqi Zhang. "Finite-element simulations of interfacial flows with moving contact lines." PhD diss., Virginia Tech, 2020. ([URL](https://vtechworks.lib.vt.edu/handle/10919/99058))
+* A Fluid Mechanical Study of Rotation-induced Traumatic Brain Injury. (with Qifu Wang, David Bates, James J. Feng, Pengtao Yue, and Qianhong Wu)
 
 Tutorial
 ======
